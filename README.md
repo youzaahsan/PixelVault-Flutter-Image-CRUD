@@ -14,7 +14,7 @@ Built with **Flutter** · Package name: `pixel_vault`
 | **Project Type** | Cross-Platform Mobile/Desktop/Web Application (Flutter) |
 | **Project Category** | Image Gallery CRUD Application |
 | **Developer** | Not specified in the project files |
-| **GitHub Repository** | Not found in the uploaded project |
+| **GitHub Repository** | (https://github.com/youzaahsan/PixelVault-Flutter-Image-CRUD) |
 | **Frontend** | Flutter (Dart), Material 3 UI |
 | **Backend** | Firebase (Cloud Firestore) — no custom server/API code |
 | **Database** | Cloud Firestore (NoSQL, single `images` collection) |
@@ -580,8 +580,8 @@ ARCHITECTURE:     Flutter client → cloud_firestore SDK → Cloud Firestore
 ADMIN:            Not applicable
 USER/CUSTOMER:    Single-role, unauthenticated app
 INSTALLATION:     flutter pub get && flutter run
-DEVELOPER:        Not specified in project files
-GITHUB:           Not found in uploaded project
+DEVELOPER:        Youza Ahsan
+GITHUB:           (https://github.com/youzaahsan)
 ```
 
 ---
