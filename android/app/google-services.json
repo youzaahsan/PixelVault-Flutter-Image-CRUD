@@ -1,0 +1,29 @@
+{
+    "project_info": {
+        "project_number": "670987918776",
+        "project_id": "image-crud-21e0f",
+        "storage_bucket": "image-crud-21e0f.firebasestorage.app"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:670987918776:android:3ead290c666bb1be8e834d",
+                "android_client_info": {
+                    "package_name": "com.pixelvault.pixel_vault"
+                }
+            },
+            "oauth_client": [],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyD9leBb338C-GOB3FjHZStsRciu5QDPWes"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": []
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
