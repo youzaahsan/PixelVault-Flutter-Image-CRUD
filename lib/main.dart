@@ -9,7 +9,7 @@ void main() async {
   if (kIsWeb) {
     await Firebase.initializeApp(
       options: const FirebaseOptions(
-        apiKey: "AIzaSyDRVk1nqf1MwTHWTb6ZYAeLvKx-pB-R9k0",
+        apiKey: "",
         authDomain: "image-crud-da52a.firebaseapp.com",
         projectId: "image-crud-da52a",
         storageBucket: "image-crud-da52a.firebasestorage.app",
